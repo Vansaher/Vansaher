@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Javan
+- 👀 I’m interested in Artificial Intelligence, Web Development, etc.
+- 🌱 I’m currently learning a lot of things from my Computer Science Course in Universiti Putra Malaysia
+- 📫 Contact me on Instagram: https://www.instagram.com/__van.h/
+- 📫 Contact me on LinkedIn: https://www.linkedin.com/in/javanherlambang/
