@@ -5,7 +5,7 @@
 
 <h3 align="left"> 📫 Connect with me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammad javan samboeputra herlambang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad javan samboeputra herlambang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/javanherlambang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad javan samboeputra herlambang" height="30" width="40" /></a>
 <a href="https://instagram.com/__van.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__van.h" height="30" width="40" /></a>
 </p>
 
